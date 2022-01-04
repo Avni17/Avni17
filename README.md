@@ -1,10 +1,17 @@
 <a href="#"><img width="100%" height="auto" src="https://www.linkpicture.com/q/coder.gif" height="175px"/></a>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm AVNI</h1>
-<h3 align="center">I'm a passionate Full Stack Developer and Problem solver from India.</h3>
+<h1 align="center">Welcome to Avni Arora's Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">
+  <a href="https://github.com/Avni17">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23D613F7&size=30&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Avni+Arora....;Nice+to+meet+you!">
+  </a>
+</h1>
 
 
+<h2 align="center">I'm a passionate Full Stack Developer and Problem solver from India.</h2>
+
+<img align="right" alt="GIF" src="https://i.postimg.cc/FRYsjNKK/techstack.gif" width="300px" height="300px"/>
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on **[Avni project name](https://)** -->
@@ -23,7 +30,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <!-- <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -34,7 +41,7 @@
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c.png"/> </a>
     <a href="https://www.github.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
-    <!-- <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  -->
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
