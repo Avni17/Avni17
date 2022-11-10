@@ -29,7 +29,7 @@
 - ⚡ Fun fact **I'm a keen learner and ambitious individual**
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/1J3LXh998uPB1pzST3lSXEZxvzYTwnil6/view?usp=sharing)
 
--<a href="https://avni-arora.vercel.app/"><img src="https://img.shields.io/badge/-AVNI ARORA-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+- 📝 Checkout my Portfolio<a href="https://avni-arora.vercel.app/"><img src="https://img.shields.io/badge/-AVNI ARORA-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 
 ## 🚀 Languages and Tools:
 
